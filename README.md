@@ -102,14 +102,3 @@ To list all EC2 instances in the `us-east-1` region, run:
 - The script supports listing resources in any AWS region by passing the desired region as an argument.
 
 --- 
-
-## License
-
-This script is provided as-is without any warranties or guarantees. The author and DevOps team are not responsible for any damage caused by using this script.
-
---- 
-
-## Contact
-
-For any issues or questions regarding this script, please contact the DevOps team.
-
